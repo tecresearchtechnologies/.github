@@ -76,15 +76,6 @@ Backend Microservices Systems
 
 Cloud Deployment Pipelines
 
-
-
----
-
-🌐 Website
-
-https://tecresearch.me
-
-
 ---
 
 📩 Contact
@@ -92,7 +83,6 @@ https://tecresearch.me
 Email: support@tecresearch.me
 
 Website: https://tecresearch.me
-
 
 
 ---
